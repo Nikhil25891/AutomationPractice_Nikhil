@@ -4,7 +4,7 @@ public class ArrayDemo1 {
 
 	public static void main(String[] args) {
 		
-		int arr[] = new int[5];
+		int arr[] = new int[5];  //Array declaration and memory allocation using "new" keyword
 		
 		arr[0] = 12;
 		arr[1] = 23;
